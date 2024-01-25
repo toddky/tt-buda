@@ -19,15 +19,11 @@ TT-BUDA is the official Tenstorrent AI/ML compiler stack and PyBUDA is the Pytho
 
 ## First 5 Things To-Do
 
-For a simple, 5-step, starting guide on learning the basics of TT-BUDA please visit [first_5_steps](first_5_steps/).
-
-In that directory, you will find the following user guides:
-
-- `1_install_ttbuda.md` -> Installation guide for TT-BUDA
-- `2_running_nlp_models.ipynb` -> Run your first NLP model with TT-BUDA
-- `3_running_cv_models.ipynb` -> Run your first CNN model with TT-BUDA
-- `4_batched_inputs.ipynb` -> Learn how to run with batched inputs and how to benchmark models on TT-BUDA
-- `5_serving_tt_models.ipynb` -> Use FastAPI to host a model running on Tenstorrent hardware to build custom APIs
+1. [Install TT-Buda](first_5_steps/1_install_tt_buda.md) -> Installation guide
+1. [Run NLP models](first_5_steps/2_running_nlp_models.ipynb) -> Run your first NLP model
+1. [Run CNN models](first_5_steps/3_running_cv_models.ipynb) -> Run your first CNN model with TT-BUDA
+1. [Batched inputs](first_5_steps/4_batched_inputs.ipynb) -> Learn how to run with batched inputs and how to benchmark models
+1. [Serving TT models](first_5_steps/5_serving_tt_models.ipynb) -> Use FastAPI to host a model running on Tenstorrent hardware to build custom APIs
 
 ## Model Demos
 
